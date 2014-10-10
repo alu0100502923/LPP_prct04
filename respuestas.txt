@@ -1,0 +1,1 @@
+Cuando lo ejecutas usando "irb" te muestra la salida que es "=>nil" y cuando lo ejecutas con "ruby" te muestra únicamente el "hello world"
