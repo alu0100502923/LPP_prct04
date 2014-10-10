@@ -1,1 +1,3 @@
-Cuando lo ejecutas usando "irb" te muestra la salida que es "=>nil" y cuando lo ejecutas con "ruby" te muestra únicamente el "hello world"
+1. Cuando lo ejecutas usando "irb" te muestra la salida que es "=>nil" y cuando lo ejecutas con "ruby" te muestra únicamente el "hello world"
+
+2. Con el interactivo se ejecuta completamente el codigo mientras que con el prylo hace directamente en la interfaz del binding.pry.
